@@ -45,43 +45,6 @@
 
 ---
 
-## 🛠️ **Key Skills & Expertise**
-
-### 🌐 **3D Web GIS Development**
-- **Certified Expertise in CesiumJS**: Building scalable, high-performance 3D visualization platforms.
-- Experience with **Potree** for point cloud rendering and real-time geospatial data visualization.
-- Advanced 3D web application development for spatial data analysis and decision-making.
-
-### 🗺️ **Geospatial Data Analysis**
-- Proficient in **spatial data processing**, **remote sensing**, and **cartography**.
-- Extensive experience with **ArcGIS**, **QGIS**, and Python libraries such as GDAL, Geopandas, and Shapely.
-
-### 📊 **Data Management & Visualization**
-- Managing **terabytes of geospatial data** for large-scale projects.
-- Developing **geospatial dashboards** to visualize data for actionable insights.
-- Automating workflows to improve operational efficiency.
-
-### 🤝 **Collaboration & Innovation**
-- Proven ability to work with cross-functional teams on complex geospatial problems.
-- Delivering **custom GIS solutions** that optimize workflows and improve decision-making.
-
----
-
-## 📂 **Featured Projects**
-
-Here are some of my most notable projects:
-
-| **🚀 Project**                     | **🌟 Highlights**                                                                 |
-|------------------------------------|----------------------------------------------------------------------------------|
-| 🌐 **[3D GIS Viewer](#)**          | Built with CesiumJS for real-time 3D visualization of geospatial datasets.       |
-| 🗺️ **[Spatial Analysis Tool](#)**  | Python-based tool for automating geospatial workflows and spatial analysis.      |
-| 📊 **[Geospatial Dashboard](#)**   | Custom-built dashboards integrating geospatial data for better decision-making.  |
-
-📌 **Explore my repositories for more!**  
-I’m constantly working on new projects, so feel free to come back and check for updates.
-
----
-
 ## 🌟 **Achievements**
 
 ✔️ Successfully designed and deployed **3D GIS platforms** used by organizations for real-time spatial analysis.  
@@ -97,19 +60,6 @@ I’m constantly working on new projects, so feel free to come back and check fo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,aws,gcp,azure,react,vue,docker,angular,babel,c,gitlab,mysql,mongodb,nodejs,php,qt,redux,supabase,threejs,vite,webpack,yarn,github,html,css" alt="Skills Icons" />
 </p>
-
----
-
-## 👨‍💼 **What I Can Do for You**
-
-I specialize in delivering **tailored GIS solutions** to meet your unique needs. Here’s how I can help:
-
-- **Build Custom GIS Applications**: From 3D web GIS platforms to geospatial dashboards, I deliver tailored applications to fit your needs.  
-- **Analyze Geospatial Data**: Transform raw spatial data into meaningful insights for improved decision-making.  
-- **Optimize Workflows**: Automate repetitive tasks and streamline GIS processes to save time and resources.  
-- **Collaborate on Complex Projects**: Bring cross-functional teams together to tackle challenging geospatial problems.  
-
-💼 Let’s collaborate to turn your GIS challenges into success stories!
 
 ---
 

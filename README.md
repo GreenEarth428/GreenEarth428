@@ -93,5 +93,5 @@ If you like what you see, don’t forget to:
 - 🤝 **Follow me** to stay updated on my latest projects.  
 
 <p align="center">
-  <img src="https://media.tenor.com/R5_zgJMgSrYAAAAM/%D1%81%D0%BC%D0%B0%D0%B9%D0%BB.gif" alt="Thank You" width="300" />
+  <img src="https://media.tenor.com/DwLEW1YOP-4AAAAM/bowing-thank-you.gif" alt="Thank You" width="300" />
 </p>

@@ -6,7 +6,7 @@
 <p align="center">
   👋 **Hello and Welcome!**  
   I’m a highly experienced **GIS Developer** with over **10 years of expertise** in **3D Web GIS platforms**, **spatial data analysis**, and **geospatial application development**.  
-  I am a **Cesium Certified Developer** 🏆, listed in the **[Cesium Certified Developer Directory](https://cesium.com/partners/certified-developers/)**, and recognized for my skills and dedication to innovative geospatial solutions.
+  I am a **Cesium Certified Developer** 🏆, listed in the **[Cesium Certified Developer Directory](https://cesium.com/certified-developer-directory/)**, and recognized for my skills and dedication to innovative geospatial solutions.
 </p>
 
 ---

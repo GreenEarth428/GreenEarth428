@@ -9,7 +9,7 @@
 ## 🏆 **Certifications**
 
 <p align="center">
-  <img src="https://drive.google.com/thumbnail?id=1vE0EGsmzLhsx0osQmMyC8hbX7yhimJqJ&sz=w1000" height="100" width="100" alt="Cesium Certified Developer">
+  <img src="https://drive.google.com/thumbnail?id=1vE0EGsmzLhsx0osQmMyC8hbX7yhimJqJ&sz=w1000" height="150" width="150" alt="Cesium Certified Developer">
 </p>
 
 ### 🏅 **Certifications**

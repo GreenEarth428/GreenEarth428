@@ -35,8 +35,8 @@ Are you looking for a **GIS expert**, **Cesium Certified Developer**, or a **col
 | Contact Method     | Details                                                                 |
 |--------------------|-------------------------------------------------------------------------|
 | 📧 **Email**       | [johnvheldev428@gmail.com](mailto:johnvheldev428@gmail.com)                 |
-| 🌐 **Portfolio**   | [https://ggi-tech-one.vercel.app/](#)                                                 |
-| 💼 **LinkedIn**    | [https://www.linkedin.com/in/johnvhel-arellano-836460330/](#)                                        |
+| 🌐 **Portfolio**   | [https://ggi-tech-one.vercel.app/](https://ggi-tech-one.vercel.app)                                                 |
+| 💼 **LinkedIn**    | [https://www.linkedin.com/in/johnvhel-arellano-836460330/](https://www.linkedin.com/in/johnvhel-arellano-836460330)                                        |
 
 Feel free to reach out — I’m always open to discussing new opportunities and collaborations.
 

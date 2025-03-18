@@ -9,7 +9,7 @@
 ## 🏆 **Certifications**
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1vE0EGsmzLhsx0osQmMyC8hbX7yhimJqJ/view?usp=drivesdk" alt="Golden Trophy" />
+  <img src="https://drive.google.com/thumbnail?id=1vE0EGsmzLhsx0osQmMyC8hbX7yhimJqJ&sz=w1000" alt="Cesium Certified Developer">
 </p>
 
 ### 🏅 **Certifications**

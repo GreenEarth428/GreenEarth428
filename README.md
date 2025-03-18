@@ -9,7 +9,7 @@
 ## 🏆 **Certifications**
 
 <p align="center">
-  <img src="https://img.icons8.com/emoji/96/000000/trophy-emoji.png" alt="Golden Trophy" />
+  <img src="https://drive.google.com/file/d/1vE0EGsmzLhsx0osQmMyC8hbX7yhimJqJ/view?usp=drivesdk" alt="Golden Trophy" />
 </p>
 
 ### 🏅 **Certifications**

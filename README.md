@@ -16,7 +16,7 @@
 - 🌟 **Cesium Certified Developer**:  
   Recognized as a Cesium Certified Developer for my expertise in building high-performance 3D GIS applications using CesiumJS.  
   - **Featured in the [Cesium Certified Developer Directory](https://cesium.com/certified-developer-directory/)**.  
-  - **Digital Certification**: Available upon request.
+  - **Digital Certification**: [Cesium Certified Developer](https://verified.sertifier.com/en/verify/03212113643555/).
 
 ---
 

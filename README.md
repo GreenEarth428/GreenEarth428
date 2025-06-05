@@ -16,7 +16,6 @@
 - 🌟 **Cesium Certified Developer**:  
   Recognized as a Cesium Certified Developer for my expertise in building high-performance 3D GIS applications using CesiumJS.  
   - **Featured in the [Cesium Certified Developer Directory](https://cesium.com/certified-developer-directory/)**.  
-  - **Digital Certification**: [Cesium Certified Developer](https://verified.sertifier.com/en/verify/03212113643555/).
 
 ---
 
@@ -25,20 +24,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,postgresql,aws,gcp,azure,react,vue,docker,angular,babel,c,gitlab,mysql,mongodb,nodejs,php,qt,redux,supabase,threejs,vite,webpack,yarn,github,html,css" alt="Skills Icons" />
 </p>
-
----
-
-## 📫 **Let’s Connect**
-
-Are you looking for a **GIS expert**, **Cesium Certified Developer**, or a **collaborator** for your next project? Let’s connect! 🚀
-
-| Contact Method     | Details                                                                 |
-|--------------------|-------------------------------------------------------------------------|
-| 📧 **Email**       | [johnvheldev428@gmail.com](mailto:johnvheldev428@gmail.com)                 |
-| 🌐 **Portfolio**   | [https://ggi-tech-one.vercel.app/](https://ggi-tech-one.vercel.app)                                                 |
-| 💼 **LinkedIn**    | [https://www.linkedin.com/in/johnvhel-arellano-836460330/](https://www.linkedin.com/in/johnvhel-arellano-836460330)                                        |
-
-Feel free to reach out — I’m always open to discussing new opportunities and collaborations.
 
 ---
 
